@@ -1,2 +1,2 @@
-# Whatsup_Development
+# POM
 This repository is to develop a chat application.
